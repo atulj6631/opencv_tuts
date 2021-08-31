@@ -1,0 +1,6 @@
+1. Affine transformation
+2. Gaussian transformation
+3. Canny Edge detection
+4. HSV color space
+5. L*a*b color space
+6. Laplacian edge detector, sobble -> gradients
